@@ -1,0 +1,6 @@
+h1.title {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0px 6px 12px;
+    border-bottom: 1px solid gray;
+}

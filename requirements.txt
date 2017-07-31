@@ -1,0 +1,17 @@
+# flask framework
+Flask
+
+# google finance
+googlefinance
+
+# json
+ujson
+
+# kafka
+-Iv kafka-python==1.3.2
+
+# schedule
+schedule
+
+# redis
+redis
